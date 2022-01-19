@@ -5,6 +5,8 @@ shinydt/example1/data
 
 # History files
 .Rhistory
+.DS_Store
+.Rproj.user/
 
 # R Environment Variables
 .Renviron
